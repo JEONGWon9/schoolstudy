@@ -1,0 +1,91 @@
+﻿  iStd.cpp
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(5,14): warning C4244: 'return': 'float'에서 'uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(37,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(37,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(38,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(38,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(61,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(125,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(125,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(124,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(124,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(142,35): warning C4244: '인수': 'float'에서 'GLuint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(143,35): warning C4244: '인수': 'float'에서 'GLuint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(150,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(150,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(175,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(175,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(237,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(237,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(236,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(236,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(243,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(243,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(521,37): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(521,25): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(535,92): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(535,71): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(535,54): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(535,35): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(593,64): warning C4244: '인수': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(593,54): warning C4244: '인수': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(593,44): warning C4244: '인수': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(593,34): warning C4244: '인수': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(914,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(915,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(916,21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(917,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(926,55): warning C4244: '인수': 'GLenum'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(927,55): warning C4244: '인수': 'GLenum'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1072,24): warning C4244: '초기화 중': 'float'에서 'uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1107,19): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1115,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1116,17): warning C4244: '초기화 중': 'float'에서 'uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1248,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1249,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1251,50): warning C4838: 'int'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1251,50): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1252,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1252,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1252,55): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1260,45): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1260,42): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1260,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1272,86): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1278,80): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1312,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1312,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1321,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1322,16): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1336,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1336,42): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1337,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1337,42): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1338,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1338,43): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1339,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1339,43): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1346,67): warning C4244: '인수': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1346,56): warning C4244: '인수': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1346,45): warning C4244: '인수': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1346,34): warning C4244: '인수': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1380,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1380,33): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1409,38): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1415,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1415,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1415,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1415,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1495,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1529,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1565,48): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1565,33): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1620,41): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1620,26): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1624,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1624,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1722,15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1727,15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TowerDefense.vcxproj -> C:\workspace\BGA2\Debug\TowerDefense.exe

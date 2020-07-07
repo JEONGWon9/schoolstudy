@@ -1,0 +1,156 @@
+﻿  Dlgitem.cpp
+C:\workspace\BGA2\TowerDefense\Ctrl\Dlgitem.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\Ctrl\DlgItem.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  DlgNom.cpp
+C:\workspace\BGA2\TowerDefense\Ctrl\DlgNom.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\Ctrl\DlgNom.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  DlgQuest.cpp
+C:\workspace\BGA2\TowerDefense\Ctrl\DlgQuest.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\Ctrl\DlgQuest.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  MapEditor.cpp
+C:\workspace\BGA2\TowerDefense\Ctrl\MapEditor.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\Ctrl\MapEditor.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\Ctrl\MapEditor.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Script.cpp
+C:\workspace\BGA2\TowerDefense\Ctrl\Script.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\Ctrl\Script.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  ScriptData.cpp
+C:\workspace\BGA2\TowerDefense\Ctrl\ScriptData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\Ctrl\ScriptData.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  2048.cpp
+C:\workspace\BGA2\TowerDefense\game\2048.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\2048.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\2048.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  App.cpp
+C:\workspace\BGA2\TowerDefense\game\App.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\App.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\App.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  AppForCtrl.cpp
+C:\workspace\BGA2\TowerDefense\game\AppForCtrl.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Ending.cpp
+C:\workspace\BGA2\TowerDefense\game\Ending.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Ending.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Game.cpp
+C:\workspace\BGA2\TowerDefense\game\Game.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Intro.cpp
+C:\workspace\BGA2\TowerDefense\game\Intro.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Jump.cpp
+C:\workspace\BGA2\TowerDefense\game\Jump.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Jump.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Jump.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Loading.cpp
+C:\workspace\BGA2\TowerDefense\game\Loading.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Menu.cpp
+C:\workspace\BGA2\TowerDefense\game\Menu.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Menu.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Menu.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Proc.cpp
+C:\workspace\BGA2\TowerDefense\game\Proc.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Sadari.cpp
+C:\workspace\BGA2\TowerDefense\game\Sadari.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Sadari.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Sadari.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Td.cpp
+C:\workspace\BGA2\TowerDefense\game\Td.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Td.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  TdData.cpp
+C:\workspace\BGA2\TowerDefense\game\TdData.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\TdData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\TdData.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  TdObject.cpp
+C:\workspace\BGA2\TowerDefense\game\TdObject.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\TdObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Tetris.cpp
+C:\workspace\BGA2\TowerDefense\game\Tetris.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Tetris.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\game\Tetris.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  iArray.cpp
+C:\workspace\BGA2\TowerDefense\lib\iArray.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  iColor.cpp
+  iFPS.cpp
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iGraphics.cpp
+C:\workspace\BGA2\TowerDefense\lib\iGraphics.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iImage.cpp
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iOpenAL.cpp
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iOpenGL.cpp
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.cpp(29,7): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.cpp(28,14): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.cpp(29,10): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iPoint.cpp
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iPopup.cpp
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iRect.cpp
+  iShortestPath.cpp
+C:\workspace\BGA2\TowerDefense\lib\iShortestPath.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iSize.cpp
+  iSort.cpp
+  iSpine.cpp
+C:\workspace\BGA2\TowerDefense\lib\iSpine.cpp(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'spine/extension.h': No such file or directory
+  iStd.cpp
+C:\workspace\BGA2\TowerDefense\lib\iStd.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iString.cpp
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iStrTex.cpp
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iVideo.cpp
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iWindow.cpp
+C:\workspace\BGA2\TowerDefense\lib\iWindow.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iType.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iOpenGL.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(15,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iFPS.h(17,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\BGA2\TowerDefense\lib\iOpenAL.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  코드를 생성하고 있습니다...

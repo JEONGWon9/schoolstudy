@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\App.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Game.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Intro.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Loading.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Menu.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Proc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iArray.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iFPS.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iGraphics.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iImage.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iOpenGL.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iPoint.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iPopup.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iRect.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iSize.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iSort.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iStd.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iString.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iType.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iStrTex.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Ending.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Animation.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\AnimationState.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\AnimationStateData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Array.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Atlas.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\AtlasAttachmentLoader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Attachment.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\AttachmentLoader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Bone.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\BoneData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\BoundingBoxAttachment.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\ClippingAttachment.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Color.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\dll.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Event.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\EventData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\extension.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\IkConstraint.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\IkConstraintData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\MeshAttachment.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\PathAttachment.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\PathConstraint.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\PathConstraintData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\PointAttachment.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\RegionAttachment.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Skeleton.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\SkeletonBinary.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\SkeletonBounds.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\SkeletonClipping.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\SkeletonData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\SkeletonJson.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Skin.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Slot.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\SlotData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\spine.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\TransformConstraint.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\TransformConstraintData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\Triangulator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\VertexAttachment.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\include\spine\VertexEffect.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="spine-c\src\spine\Json.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iSpine.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iColor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iOpenAL.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iShortestPath.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Jump.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Sadari.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\2048.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Td.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\TdData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\TdObject.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iVideo.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\Tetris.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="game\AppForCtrl.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iWindow.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Ctrl\Dlgitem.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Ctrl\DlgNom.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Ctrl\DlgQuest.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Ctrl\MapEditor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Ctrl\Script.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Ctrl\ScriptData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iMatrix.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TowerDefense.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="TowerDefense.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="game\App.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Game.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\glew.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Intro.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Loading.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Menu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Proc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iArray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iFPS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iGraphics.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iImage.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iOpenGL.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iPoint.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iPopup.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iRect.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iSize.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iStd.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iString.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iStrTex.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Ending.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Animation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\AnimationState.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\AnimationStateData.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Atlas.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\AtlasAttachmentLoader.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Attachment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\AttachmentLoader.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Bone.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\BoneData.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\BoundingBoxAttachment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\ClippingAttachment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Color.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Event.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\EventData.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\extension.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\IkConstraint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\IkConstraintData.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Json.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\MeshAttachment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\PathAttachment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\PathConstraint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\PathConstraintData.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\PointAttachment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\RegionAttachment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Skeleton.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\SkeletonBinary.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\SkeletonBounds.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\SkeletonClipping.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\SkeletonData.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\SkeletonJson.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Skin.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Slot.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\SlotData.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\TransformConstraint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\TransformConstraintData.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\Triangulator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\VertexAttachment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="spine-c\src\spine\VertexEffect.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iSpine.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iColor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iOpenAL.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iShortestPath.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Jump.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Sadari.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\2048.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Td.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\TdData.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\TdObject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iVideo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\Tetris.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="game\AppForCtrl.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iWindow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ctrl\Dlgitem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ctrl\DlgNom.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ctrl\DlgQuest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ctrl\MapEditor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ctrl\Script.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ctrl\ScriptData.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\iMatrix.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
