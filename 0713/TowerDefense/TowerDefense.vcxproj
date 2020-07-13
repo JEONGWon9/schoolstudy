@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{8981E80A-FA97-4D42-9C2F-80D26A356F85}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>TowerDefense</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>TOOL=0;GLEW_STATIC;_USE_MATH_DEFINES;GDIPVER=0x0110;_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:\workspace\BGA2\TowerDefense\ctrl;C:\workspace\BGA2\TowerDefense\lib;C:\workspace\OpenAL 1.1 SDK\include;C:\workspace\BGA2\TowerDefense\spine-c\include;C:\workspace\glew-2.1.0\include\GL;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\workspace\OpenAL 1.1 SDK\libs\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Ctrl\Dlgitem.h" />
+    <ClInclude Include="Ctrl\DlgNom.h" />
+    <ClInclude Include="Ctrl\DlgQuest.h" />
+    <ClInclude Include="Ctrl\MapEditor.h" />
+    <ClInclude Include="Ctrl\Script.h" />
+    <ClInclude Include="Ctrl\ScriptData.h" />
+    <ClInclude Include="game\2048.h" />
+    <ClInclude Include="game\App.h" />
+    <ClInclude Include="game\AppForCtrl.h" />
+    <ClInclude Include="game\Ending.h" />
+    <ClInclude Include="game\Game.h" />
+    <ClInclude Include="game\Intro.h" />
+    <ClInclude Include="game\Jump.h" />
+    <ClInclude Include="game\Loading.h" />
+    <ClInclude Include="game\Menu.h" />
+    <ClInclude Include="game\Proc.h" />
+    <ClInclude Include="game\Sadari.h" />
+    <ClInclude Include="game\Td.h" />
+    <ClInclude Include="game\TdData.h" />
+    <ClInclude Include="game\TdObject.h" />
+    <ClInclude Include="game\Tetris.h" />
+    <ClInclude Include="lib\iArray.h" />
+    <ClInclude Include="lib\iColor.h" />
+    <ClInclude Include="lib\iFPS.h" />
+    <ClInclude Include="lib\iGraphics.h" />
+    <ClInclude Include="lib\iImage.h" />
+    <ClInclude Include="lib\iMatrix.h" />
+    <ClInclude Include="lib\iOpenAL.h" />
+    <ClInclude Include="lib\iOpenGL.h" />
+    <ClInclude Include="lib\iPoint.h" />
+    <ClInclude Include="lib\iPopup.h" />
+    <ClInclude Include="lib\iRect.h" />
+    <ClInclude Include="lib\iShaderToy.h" />
+    <ClInclude Include="lib\iShortestPath.h" />
+    <ClInclude Include="lib\iSize.h" />
+    <ClInclude Include="lib\iSort.h" />
+    <ClInclude Include="lib\iSpine.h" />
+    <ClInclude Include="lib\iStd.h" />
+    <ClInclude Include="lib\iString.h" />
+    <ClInclude Include="lib\iStrTex.h" />
+    <ClInclude Include="lib\iType.h" />
+    <ClInclude Include="lib\iVideo.h" />
+    <ClInclude Include="lib\iWindow.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="spine-c\include\spine\Animation.h" />
+    <ClInclude Include="spine-c\include\spine\AnimationState.h" />
+    <ClInclude Include="spine-c\include\spine\AnimationStateData.h" />
+    <ClInclude Include="spine-c\include\spine\Array.h" />
+    <ClInclude Include="spine-c\include\spine\Atlas.h" />
+    <ClInclude Include="spine-c\include\spine\AtlasAttachmentLoader.h" />
+    <ClInclude Include="spine-c\include\spine\Attachment.h" />
+    <ClInclude Include="spine-c\include\spine\AttachmentLoader.h" />
+    <ClInclude Include="spine-c\include\spine\Bone.h" />
+    <ClInclude Include="spine-c\include\spine\BoneData.h" />
+    <ClInclude Include="spine-c\include\spine\BoundingBoxAttachment.h" />
+    <ClInclude Include="spine-c\include\spine\ClippingAttachment.h" />
+    <ClInclude Include="spine-c\include\spine\Color.h" />
+    <ClInclude Include="spine-c\include\spine\dll.h" />
+    <ClInclude Include="spine-c\include\spine\Event.h" />
+    <ClInclude Include="spine-c\include\spine\EventData.h" />
+    <ClInclude Include="spine-c\include\spine\extension.h" />
+    <ClInclude Include="spine-c\include\spine\IkConstraint.h" />
+    <ClInclude Include="spine-c\include\spine\IkConstraintData.h" />
+    <ClInclude Include="spine-c\include\spine\MeshAttachment.h" />
+    <ClInclude Include="spine-c\include\spine\PathAttachment.h" />
+    <ClInclude Include="spine-c\include\spine\PathConstraint.h" />
+    <ClInclude Include="spine-c\include\spine\PathConstraintData.h" />
+    <ClInclude Include="spine-c\include\spine\PointAttachment.h" />
+    <ClInclude Include="spine-c\include\spine\RegionAttachment.h" />
+    <ClInclude Include="spine-c\include\spine\Skeleton.h" />
+    <ClInclude Include="spine-c\include\spine\SkeletonBinary.h" />
+    <ClInclude Include="spine-c\include\spine\SkeletonBounds.h" />
+    <ClInclude Include="spine-c\include\spine\SkeletonClipping.h" />
+    <ClInclude Include="spine-c\include\spine\SkeletonData.h" />
+    <ClInclude Include="spine-c\include\spine\SkeletonJson.h" />
+    <ClInclude Include="spine-c\include\spine\Skin.h" />
+    <ClInclude Include="spine-c\include\spine\Slot.h" />
+    <ClInclude Include="spine-c\include\spine\SlotData.h" />
+    <ClInclude Include="spine-c\include\spine\spine.h" />
+    <ClInclude Include="spine-c\include\spine\TransformConstraint.h" />
+    <ClInclude Include="spine-c\include\spine\TransformConstraintData.h" />
+    <ClInclude Include="spine-c\include\spine\Triangulator.h" />
+    <ClInclude Include="spine-c\include\spine\VertexAttachment.h" />
+    <ClInclude Include="spine-c\include\spine\VertexEffect.h" />
+    <ClInclude Include="spine-c\src\spine\Json.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TowerDefense.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico" />
+    <Image Include="TowerDefense.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ctrl\Dlgitem.cpp" />
+    <ClCompile Include="Ctrl\DlgNom.cpp" />
+    <ClCompile Include="Ctrl\DlgQuest.cpp" />
+    <ClCompile Include="Ctrl\MapEditor.cpp" />
+    <ClCompile Include="Ctrl\Script.cpp" />
+    <ClCompile Include="Ctrl\ScriptData.cpp" />
+    <ClCompile Include="game\2048.cpp" />
+    <ClCompile Include="game\App.cpp" />
+    <ClCompile Include="game\AppForCtrl.cpp" />
+    <ClCompile Include="game\Ending.cpp" />
+    <ClCompile Include="game\Game.cpp" />
+    <ClCompile Include="game\glew.c" />
+    <ClCompile Include="game\Intro.cpp" />
+    <ClCompile Include="game\Jump.cpp" />
+    <ClCompile Include="game\Loading.cpp" />
+    <ClCompile Include="game\Menu.cpp" />
+    <ClCompile Include="game\Proc.cpp" />
+    <ClCompile Include="game\Sadari.cpp" />
+    <ClCompile Include="game\Td.cpp" />
+    <ClCompile Include="game\TdData.cpp" />
+    <ClCompile Include="game\TdObject.cpp" />
+    <ClCompile Include="game\Tetris.cpp" />
+    <ClCompile Include="lib\iArray.cpp" />
+    <ClCompile Include="lib\iColor.cpp" />
+    <ClCompile Include="lib\iFPS.cpp" />
+    <ClCompile Include="lib\iGraphics.cpp" />
+    <ClCompile Include="lib\iImage.cpp" />
+    <ClCompile Include="lib\iMatrix.cpp" />
+    <ClCompile Include="lib\iOpenAL.cpp" />
+    <ClCompile Include="lib\iOpenGL.cpp" />
+    <ClCompile Include="lib\iPoint.cpp" />
+    <ClCompile Include="lib\iPopup.cpp" />
+    <ClCompile Include="lib\iRect.cpp" />
+    <ClCompile Include="lib\iShaderToy.cpp" />
+    <ClCompile Include="lib\iShortestPath.cpp" />
+    <ClCompile Include="lib\iSize.cpp" />
+    <ClCompile Include="lib\iSort.cpp" />
+    <ClCompile Include="lib\iSpine.cpp" />
+    <ClCompile Include="lib\iStd.cpp" />
+    <ClCompile Include="lib\iString.cpp" />
+    <ClCompile Include="lib\iStrTex.cpp" />
+    <ClCompile Include="lib\iVideo.cpp" />
+    <ClCompile Include="lib\iWindow.cpp" />
+    <ClCompile Include="spine-c\src\spine\Animation.c" />
+    <ClCompile Include="spine-c\src\spine\AnimationState.c" />
+    <ClCompile Include="spine-c\src\spine\AnimationStateData.c" />
+    <ClCompile Include="spine-c\src\spine\Array.c" />
+    <ClCompile Include="spine-c\src\spine\Atlas.c" />
+    <ClCompile Include="spine-c\src\spine\AtlasAttachmentLoader.c" />
+    <ClCompile Include="spine-c\src\spine\Attachment.c" />
+    <ClCompile Include="spine-c\src\spine\AttachmentLoader.c" />
+    <ClCompile Include="spine-c\src\spine\Bone.c" />
+    <ClCompile Include="spine-c\src\spine\BoneData.c" />
+    <ClCompile Include="spine-c\src\spine\BoundingBoxAttachment.c" />
+    <ClCompile Include="spine-c\src\spine\ClippingAttachment.c" />
+    <ClCompile Include="spine-c\src\spine\Color.c" />
+    <ClCompile Include="spine-c\src\spine\Event.c" />
+    <ClCompile Include="spine-c\src\spine\EventData.c" />
+    <ClCompile Include="spine-c\src\spine\extension.c" />
+    <ClCompile Include="spine-c\src\spine\IkConstraint.c" />
+    <ClCompile Include="spine-c\src\spine\IkConstraintData.c" />
+    <ClCompile Include="spine-c\src\spine\Json.c" />
+    <ClCompile Include="spine-c\src\spine\MeshAttachment.c" />
+    <ClCompile Include="spine-c\src\spine\PathAttachment.c" />
+    <ClCompile Include="spine-c\src\spine\PathConstraint.c" />
+    <ClCompile Include="spine-c\src\spine\PathConstraintData.c" />
+    <ClCompile Include="spine-c\src\spine\PointAttachment.c" />
+    <ClCompile Include="spine-c\src\spine\RegionAttachment.c" />
+    <ClCompile Include="spine-c\src\spine\Skeleton.c" />
+    <ClCompile Include="spine-c\src\spine\SkeletonBinary.c" />
+    <ClCompile Include="spine-c\src\spine\SkeletonBounds.c" />
+    <ClCompile Include="spine-c\src\spine\SkeletonClipping.c" />
+    <ClCompile Include="spine-c\src\spine\SkeletonData.c" />
+    <ClCompile Include="spine-c\src\spine\SkeletonJson.c" />
+    <ClCompile Include="spine-c\src\spine\Skin.c" />
+    <ClCompile Include="spine-c\src\spine\Slot.c" />
+    <ClCompile Include="spine-c\src\spine\SlotData.c" />
+    <ClCompile Include="spine-c\src\spine\TransformConstraint.c" />
+    <ClCompile Include="spine-c\src\spine\TransformConstraintData.c" />
+    <ClCompile Include="spine-c\src\spine\Triangulator.c" />
+    <ClCompile Include="spine-c\src\spine\VertexAttachment.c" />
+    <ClCompile Include="spine-c\src\spine\VertexEffect.c" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
